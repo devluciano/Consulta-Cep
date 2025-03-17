@@ -1,17 +1,20 @@
-# Consulta Cep - Consumindo Api ViaCep
+# 📍 Consulta CEP - Consumindo API ViaCep  
 
-Projeto simples criado em Angular v 14.2.8.
+Este é um projeto simples desenvolvido em **Angular** para consultar endereços com base no CEP, utilizando a API pública **ViaCep**.  
 
-## Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas  
+- **Angular** v14.2.8  
 
-Angular versão 14.2.8
+## 🌍 API Externa  
+🔗 [ViaCep](https://viacep.com.br/)  
 
-## API externa
+## 👨‍💻 Autor  
+**Luciano F. Silva**  
 
-https://viacep.com.br/
+## 🖼️ Algumas telas do sistema    
 
-## Autor: Luciano F silva
-Algumas Telas do sistema
+Sinta-se à vontade para explorar e contribuir! 🚀  
+
 
 ![image](https://github.com/devluciano/Consulta-Cep/assets/61517478/3dd0de8c-a474-4c30-8564-4aa757a911bb)
 Insira seu Cep
